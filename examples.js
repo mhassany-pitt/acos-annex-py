@@ -1,25 +1,5 @@
 module.exports = {
   examples: {
-    "p1test": {
-      "name": "p1test",
-      "description": "p1test",
-      "language": "py",
-      "author": "r.hosseini",
-      "lines": [
-        {
-          "line": "this is p1 test{",
-          "comment": "jkjkj"
-        },
-        {
-          "line": "",
-          "comment": "jkjk"
-        },
-        {
-          "line": "}",
-          "comment": "kj"
-        }
-      ]
-    },
     "py_1": {
       "name": "HelloWorld",
       "description": "Print the string Hello World",
@@ -1308,42 +1288,6 @@ module.exports = {
         },
         {
           "line": "print (dict1)",
-          "comment": ""
-        }
-      ]
-    },
-    "xx": {
-      "name": "xx",
-      "description": "",
-      "language": "py",
-      "author": "r.hosseini",
-      "lines": [
-        {
-          "line": "int",
-          "comment": ""
-        }
-      ]
-    },
-    "tt": {
-      "name": "tt",
-      "description": "",
-      "language": "py",
-      "author": "r.hosseini",
-      "lines": [
-        {
-          "line": "i",
-          "comment": ""
-        }
-      ]
-    },
-    "kk": {
-      "name": "kk",
-      "description": "",
-      "language": "py",
-      "author": "r.hosseini",
-      "lines": [
-        {
-          "line": "k",
           "comment": ""
         }
       ]
